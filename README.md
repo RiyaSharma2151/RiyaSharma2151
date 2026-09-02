@@ -1,6 +1,24 @@
-# 💫 About Me:
-👋 Hi, I’m Riya Sharma<br><br>💻 I’m currently working on<br>Building MERN stack projects, UI-focused web apps, and exploring real-world product ideas.<br><br>🤝 I’m looking to collaborate on<br>Frontend-heavy projects, React/Next.js apps, and creative web experiences.<br><br>🧠 I’m looking for help with<br>Advanced backend architecture, system design, and scalable APIs.<br><br>🌱 I’m currently learning<br>React deep concepts, Next.js, Tailwind CSS, and modern web animations.<br><br>💬 Ask me about<br>Web development, UI/UX design, MERN stack, or turning ideas into products.<br><br>⚡ Fun fact<br>I love mixing code with creativity — design + logic is my zone 😄
+## About Me
 
+**Riya Sharma**  
+Product & Systems Engineer
+
+**Current Focus**  
+Architecting cross-platform mobile applications, AI-integrated product platforms, and resilient full-stack systems.
+
+**Collaboration**  
+Open to partnering on production-grade web and mobile applications, high-performance edge architectures, and complex design systems.
+
+**Areas of Research**  
+Distributed database architecture, large-scale agent workflows, and offline-first data synchronization patterns.
+
+**Domain Expertise**  
+- Mobile & Web Architecture: React Native, Expo, Next.js, TypeScript  
+- UI Engineering & Systems: Component infrastructure, animation design, design token implementation  
+- Backend & Data Layers: Scalable API design, edge runtimes, relational database modeling  
+
+**Contact & Discussion**  
+Reach out to discuss application architecture, UI engineering challenges, or engineering strategy.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Riya Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyasham2151@gmail.com) 
