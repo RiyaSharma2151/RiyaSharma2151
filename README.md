@@ -36,16 +36,6 @@ Reach out to discuss application architecture, UI engineering challenges, or eng
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaSharma2151&theme=github-compact&bg_color=0d1117&hide_border=true&radius=8" alt="Activity Graph"/>
 </p>
-## 📊 GitHub pulse
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiyaSharma2151&show_icons=true&rank_icon=github&theme=blue_navy" height="155" />
-  <img src="https://streak-stats.demolab.com?user=RiyaSharma2151&theme=blue_navy" height="155" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaSharma2151&theme=github-compact&bg_color=0d1117&hide_border=true&radius=8" alt="Activity Graph"/>
-</p>
-
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
